@@ -10,3 +10,5 @@ __pycache__/
 
 # Ignore hashed password storage (for security)
 hashed_passwords.txt
+
+rockyou.txt
